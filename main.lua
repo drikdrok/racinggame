@@ -1,3 +1,5 @@
+--This got out of hand. Very little planning happened, leading to most have the game just being in this one file...
+
 math.randomseed(os.time())
 love.graphics.setDefaultFilter("nearest", "nearest")
 
